@@ -1,0 +1,16 @@
+.emoji{
+
+    justify-content:center;
+    display: flex;
+   width: 400px;
+height: 25px;
+    
+}
+button{
+    height: 50px;
+    margin-top: 300px;
+   justify-content: center;
+}
+.img{
+    height: 300px;
+}
